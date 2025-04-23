@@ -3,7 +3,7 @@ interaksiyonlu_API_Report - Arayüz.py bu dosya [auto-py](https://github.com/bre
 ![image](https://github.com/user-attachments/assets/143f5467-1d4e-44cb-99b7-0d5e283b92d4)
 
 
-interaksiyonlu_API_Report.py bu scripti kullanmadan önce gerekli olan kütüphanelerin kurulması gerekmektedir. Bu script çalıştırıldığında sırayla sizden 2 tane veri girişi ister 1- yönetim paneli, 2-API anahtarı sonrasında istediğiniz kampanya değerine girerek dosyanın oluşmasını sağlar. Dosya sciriptin çalıştırıldığı yere oluşturulur.
+interaksiyonlu_API_Report.py bu scripti kullanmadan önce gerekli olan kütüphanelerin kurulması gerekmektedir. Bu script çalıştırıldığında sırayla sizden 3 tane veri girişi ister 1- yönetim paneli, 2-API anahtarı 3-kampanya ID girerek dosyanın oluşmasını sağlar. Dosya sciriptin çalıştırıldığı yere oluşturulur.
 
 "pip install -r requirements.txt" veya "python3 -m pip install -r requirements.txt"----->
 "python interaksiyonlu_API_Report.py"
